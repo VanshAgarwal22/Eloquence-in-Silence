@@ -1,0 +1,12 @@
+0 Hello
+1 I Love You
+2 OK
+3 Yes
+4 Thank You
+5 Promise
+6 Very Good
+7 A
+8 B
+9 C
+10 D
+11 Very Bad
